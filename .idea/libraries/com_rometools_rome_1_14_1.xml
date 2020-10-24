@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="com.rometools:rome:1.14.1" type="repository">
+    <properties maven-id="com.rometools:rome:1.14.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/rometools/rome/1.14.1/rome-1.14.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/rometools/rome-utils/1.14.1/rome-utils-1.14.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdom/jdom2/2.0.6/jdom2-2.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.16/slf4j-api-1.7.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
